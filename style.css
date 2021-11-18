@@ -79,7 +79,7 @@ h1{
 }
 
 
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 992px) {
 
 .box0  {
   display: inline-block;
@@ -89,12 +89,18 @@ h1{
   padding-left: 100px;
   }
 
-  .container {
+.container {
     display: inline-block;
     float:right;
     margin-right: 180px;
     width: 150px;
     height: 40px;
+}
+
+.footeris {
+  align-items: center;
+  padding-left: 20%;
+
 }
 
 header {
@@ -112,7 +118,7 @@ h1{
     font-weight: bold;
   }
 
-  section {
+section {
     margin-top: -150px;
     text-align: center;
     padding: 10%;
