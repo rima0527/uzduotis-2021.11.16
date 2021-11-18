@@ -245,7 +245,7 @@ height: 40px
 .form {
 display:inline-flex;
 float:left;
-line: height 40px;
+outline: height 40px;
 }
 .search-field {
 /*width: 100%;*/
