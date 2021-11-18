@@ -51,7 +51,7 @@ width: 40%;
 
 }
 
-p{
+p {
 font-size: 10px;
 color: #000000;
 text-align: center
@@ -150,7 +150,7 @@ h1{
 
 
     
-     ul{ 
+     ul { 
       display: inline-block;
       /*text-align: top;
       padding-right: 10%;*/
@@ -158,8 +158,8 @@ h1{
       min-width: 20%;
      } 
     
-     p{
-      font-size: 9px;
+     p {
+      font-size: 20px;
       color: #000000;
       text-align: center
       }
@@ -167,11 +167,7 @@ h1{
                                 
       }
 
-     
-
-
-
-
+   
 
 article{
 background-image:url(images/bg_color3.jpg);
@@ -220,18 +216,11 @@ font-size: 14px;
 color: #FFFFFF;
 }
 
-p{
-font-size: 20px;
-color: #000000;
-text-align: center
-}
 
 hr{
 height: 12px;
 background-color: #0c0b0b;
 }
-
-
 
 
 /*paieska*/

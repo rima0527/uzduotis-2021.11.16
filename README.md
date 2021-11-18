@@ -1,2 +1,2 @@
 ﻿# uzduotis-2021.11.16
- Visi failai ir katalogai branche - dev
+Rimante Merkeviciute VIGI-12
